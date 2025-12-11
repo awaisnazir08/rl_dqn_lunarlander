@@ -169,6 +169,18 @@ The agent employs an **epsilon-greedy policy**, where:
 
 The trained agent successfully learned to land on the pad with stable control, achieving rewards well above the target threshold of 200.
 
+### Training Performance Plots
+
+#### Comprehensive Training Analysis
+![DQN Comprehensive Analysis](dqn_comprehensive_analysis.png)
+
+This plot shows the complete training analysis including rewards over episodes and learning progress.
+
+#### Loss Analysis
+![DQN Loss Analysis](dqn_loss_analysis.png)
+
+This plot displays the training loss over time, showing how the Q-network's predictions improved during training.
+
 ## 📝 File Descriptions
 
 ### Core Files
