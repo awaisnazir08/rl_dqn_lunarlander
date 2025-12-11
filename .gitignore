@@ -9,5 +9,4 @@
 /requirements.txt
 /rewards.npy
 /run_agent.py
-/utils.py
 /watch_agent.py
