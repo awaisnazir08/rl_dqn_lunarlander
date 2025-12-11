@@ -15,7 +15,7 @@ RENDER_MODE = "rgb_array"  # Options: "human" (live), "rgb_array" (for recording
 SAVE_VIDEO = True          # Save episodes as MP4 video
 SAVE_GIF = True            # Save episodes as GIF
 NUM_EVAL_EPISODES = 5      # Number of episodes to evaluate
-NUM_RECORD_EPISODES = 3    # Number of episodes to save (video/gif)
+NUM_RECORD_EPISODES = 1    # Number of episodes to save (video/gif)
 
 # =============================================================================
 

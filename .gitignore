@@ -2,4 +2,4 @@
 /dqn_lander.pth
 /dqn_loss_analysis.png
 /README.md
-/recordings
+/__pycache__/
