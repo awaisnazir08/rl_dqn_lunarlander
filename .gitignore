@@ -7,5 +7,4 @@
 /recordings
 /requirements.txt
 /rewards.npy
-/run_agent.py
 /watch_agent.py
